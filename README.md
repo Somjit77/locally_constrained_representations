@@ -1,5 +1,6 @@
 # Locally Constrained Representations
 Implementation of the LCR algorithm on the following environments.
+
 Environments
 ============
 Atari

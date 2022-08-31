@@ -1,0 +1,6 @@
+matplotlib
+numpy
+opencv-python
+pygame
+gym==0.12.5
+ipywidgets==7.5.1

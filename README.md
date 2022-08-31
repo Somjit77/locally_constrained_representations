@@ -8,7 +8,7 @@ Default Hyper-Paremeters is for the main plot. Choose appropriate hyper-paramete
 
 Mujoco
 =======
-This is an extension of the [RLZoo] (https://github.com/tensorlayer/RLzoo) library. The LCR code is built on top of RLZoo with only SAC being modified. The code will not work for other algorithms. The default hyper-parameters are set to the default ones for RLZoo SAC. Run train.py to reproduce the results from the paper. Change the max_steps for each environment based on the table provided in the supplementary material.
+This is an extension of the [RLZoo](https://github.com/tensorlayer/RLzoo) library. The LCR code is built on top of RLZoo with only SAC being modified. The code will not work for other algorithms. The default hyper-parameters are set to the default ones for RLZoo SAC. Run train.py to reproduce the results from the paper. Change the max_steps for each environment based on the table provided in the supplementary material.
 
 MiniGrid
 =======
